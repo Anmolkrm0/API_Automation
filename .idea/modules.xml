@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/API_Automation.iml" filepath="$PROJECT_DIR$/.idea/API_Automation.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Py1xAPIAutomation.iml" filepath="$PROJECT_DIR$/.idea/Py1xAPIAutomation.iml" />
+>>>>>>> 6a55ee5 (Framework Template)
     </modules>
   </component>
 </project>
