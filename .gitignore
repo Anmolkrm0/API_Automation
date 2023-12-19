@@ -1,7 +1,4 @@
 <<<<<<< HEAD
-# created by virtualenv automatically
-venv
-=======
 # Created by https://www.toptal.com/developers/gitignore/api/dotenv,pycharm+all
 # Edit at https://www.toptal.com/developers/gitignore?templates=dotenv,pycharm+all
 
@@ -98,4 +95,7 @@ fabric.properties
 
 # End of https://www.toptal.com/developers/gitignore/api/dotenv,pycharm+all
 Summarize
->>>>>>> 07fda17 (15 Dec 2023)
+=======
+# created by virtualenv automatically
+venv
+>>>>>>> 8eaf035 (Resolve merge conflicts)
