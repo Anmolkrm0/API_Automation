@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python API Automation Framework
 
 Hybrid Custom Framework to Test the REST APIs
@@ -7,6 +8,9 @@ Hybrid Custom Framework to Test the REST APIs
 
 
 ### Tech Stack
+=======
+**Tech Stack**
+>>>>>>> 53678c1 (first commit)
 1. Python 3.11
 2. Requests - HTTP Requests
 3. PyTest - Testing Framework
@@ -14,6 +18,7 @@ Hybrid Custom Framework to Test the REST APIs
 5. Test Data - CSV, Excel, JSON
 6. Parallel Execution - x distribute
 
+<<<<<<< HEAD
 
 
 ### How to Install Packages
@@ -33,3 +38,13 @@ Hybrid Custom Framework to Test the REST APIs
 
 ``pytest -n auto tests/integration_test/test_create_booking.py -s -v
 ``
+=======
+**How to Install Packages**
+"pip install requests pytest pytest-html faker allure-pytest jsonschema"
+
+**To Freeze your Package version**
+pip freeze > requirements.txt
+
+**To Install te Freeze Version**
+pip install -r requirements.txt
+>>>>>>> 53678c1 (first commit)
